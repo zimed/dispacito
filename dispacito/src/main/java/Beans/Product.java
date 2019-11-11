@@ -5,6 +5,7 @@ public class Product {
 	protected String productUrl;
 	protected String price;
 	protected String quantity;
+	String assuprimer;
 
 	
 	
